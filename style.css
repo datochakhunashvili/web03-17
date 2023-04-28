@@ -19,7 +19,9 @@ ul{
     
 
 .container{
-    width: 1200px;
+    width: 1440px;
+    height: ;
+    background-color:#F7F7F7 ;
     
 }
 .logo{
@@ -136,4 +138,70 @@ button{
     height: 25px;
     margin-left: 10px;
     vertical-align: middle;
+}
+ .container-1{
+    width: 1260px;
+    background-color: #ffffff;
+    margin-left: 90px;
+    margin-top: 165px;
+}
+.box-1{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #0865DE;
+    margin-left: -15px;
+    margin-top: -15px;
+}    
+.conceotion{
+    width: 183px;
+    height: 86px;
+    margin-top: 90px;
+    margin-left: 90px;
+}
+.text-2{
+    width: 651px;
+    height: 85px;
+    margin-top: 65px;
+    margin-left: 90px;
+}
+.wrapper{
+    background-color: #0865DE;
+    height: 428px;
+
+}
+.wrapper, h2 h5{
+    color: #ffffff;
+    border-bottom-left-radius: 1%;
+    border-bottom-right-radius: 1%;
+}
+.wrapper h2{
+    width: 141px;
+    height: 34px;
+    letter-spacing: 4.8px;
+}
+.wrapper span{
+    color: #D1D1D1;
+    font-size: 10px;
+
+}
+.wrapper-1{
+    display: inline-block;
+    border-right: 1px solid white;
+    margin-left: 89px;
+    padding-right: 50px;
+    margin-top: 60px;
+}
+
+
+.wrapper-2{
+    display: inline-block;
+    border-right: 1px solid white;
+    margin-left: 200px;
+    padding-right: 50px;
+}
+.wrapper-3{
+    display: inline-block;
+    margin-left: 200px;
+    padding-right: 50px;
 }
