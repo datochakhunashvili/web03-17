@@ -20,7 +20,7 @@ ul{
 
 .container{
     width: 1200px;
-    height: 6000px;   
+    
 }
 .logo{
     width: 27px;
@@ -53,7 +53,7 @@ a{
     margin-left: 20px;
 }    
 .nav-li:last-child::after {
-     /* display: none; */
+     display: none;
 }
 .impact{
     margin-top: 133px;
@@ -106,4 +106,34 @@ button{
     background-color: #ffffff;
     display: block;
     margin-left: 50px;
-}    
+} 
+.facebook{
+    display: inline-block;
+}   
+.facebook a img{
+    display: inline-block;
+    width: 12px;
+    height: 20px;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+.twitter{
+    display: inline-block;
+}
+.twitter a img{
+    display: inline-block;
+    width: 22px;
+    height: 18px;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+.vimeo{
+    display: inline-block;
+}
+.vimeo a img{
+    display: inline-block;
+    width: 22px;
+    height: 25px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
