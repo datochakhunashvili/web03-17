@@ -390,3 +390,83 @@ button{
     font-size: 13px;
     color:#262626 ;    
 }
+.box-5 div{
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 12px;
+    border: 1px ;
+    width: 150px;
+    height: 34px;
+    background-color:#0865DE;
+    color: #ffffff;
+    margin-left: 20px;
+}
+.box-6 div{
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 12px;
+    border: 1px ;
+    width: 150px;
+    height: 34px;
+    background-color: #0865DE;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.wrapper-img{
+    width: 1260px;
+    height: 700px;
+    background-color: #ffffff;
+    margin-left: 90px;
+    margin-top: 100px;
+}
+.refer{
+    width: 201px;
+    height: 36px;
+    padding-top: 100px;
+    margin-left: 100px;
+    letter-spacing: 5px;
+}
+.text-p{
+    width: 569px;
+    height: 93px;
+    color: #262626;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.box-7{
+    margin-left: 180px;
+}
+.box-7 div{
+    display: inline-block;
+}
+.box-7 img{
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 12px;
+    border: 1px solid #dbdbdb;
+    width: 150px;
+    height: 150px;
+    background-color:#ffffff;
+
+}
+.box-8{
+    margin-left: 180px;
+}
+.box-8 div{
+    display: inline-block;
+}
+.box-8 img{
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 12px;
+    border: 1px solid #dbdbdb;
+    width: 150px;
+    height: 150px;
+    background-color:#ffffff;
+
+}
