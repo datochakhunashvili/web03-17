@@ -307,6 +307,7 @@ button{
 .ambrose{
     display: inline-block;
     background-color: #ffffff;
+
 }
 .ambrose img{
     width: 200px;
@@ -346,4 +347,46 @@ button{
     margin-left: 10px;
     font-size: 10px;
 }
-
+.button-1{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 362px;
+}
+.pour{
+    width: 260px;
+    height: 86px;
+    margin-top: 150px;
+    margin-left: 180px;
+    letter-spacing: 5px;
+}
+.education{
+    display: inline-block;
+}
+.education h3{
+    width: 184px;
+    height: 36px;
+    margin-left: 180px;
+    letter-spacing: 5px;
+}
+.education p{
+    width: 448px;
+    height: 126px;
+    margin-left: 180px;
+    font-size: 13px;
+    color:#262626 ;  
+}
+.COMMUNICATION{
+    display: inline-block;
+    margin-left: 20px;
+}
+.COMMUNICATION h3{
+    width: 184px;
+    height: 36px;
+    letter-spacing: 5px;
+}
+.COMMUNICATION p{
+    width: 448px;
+    height: 126px;
+    font-size: 13px;
+    color:#262626 ;    
+}
