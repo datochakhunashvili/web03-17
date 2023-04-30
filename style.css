@@ -20,7 +20,7 @@ ul{
 
 .container{
     width: 1440px;
-    height: ;
+    margin-left: 200PX;
     background-color:#F7F7F7 ;
     
 }
@@ -542,4 +542,72 @@ button{
     background-color: #000000;
     display: block;
     margin-left: 35px;
+}
+.wrapper-box{
+    position: relative;
+    width: 1440px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.wrapper-5{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.wrapper-5 div{
+    display: inline-block;
+    border: 1px solid #ffffff;
+    width: 250px;
+    height: 197px;
+    background-color: #ffffff;
+    margin-left: 20px;
+    padding: 20px;
+}
+.circle{
+    position: absolute;
+    left: -240px;
+}
+
+.wrapper-5 h4{
+    letter-spacing: 1px;
+    font-size: 15px;
+    text-align: 4px;
+    
 } 
+.wrapper-5 H5{
+    font-size: 11px;
+    color: #959595;
+   
+} 
+.wrapper-5 p{
+    width: 257px;
+    height: 102px;
+}
+.wrapper-6{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.wrapper-6 div{
+    display: inline-block;
+    border: 1px solid #ffffff;
+    width: 250px;
+    height: 197px;
+    background-color: #ffffff;
+    margin-left: 20px;
+    padding: 20px;
+}
+,.wrapper-6 h4{
+    letter-spacing: 1px;
+    font-size: 15px;
+    text-align: 4px;
+} 
+.wrapper-6 H5{
+    font-size: 11px;
+    color: #959595;
+} 
+.wrapper-6 P{
+    width: 257px;
+    height: 102px;
+} 
+ 
