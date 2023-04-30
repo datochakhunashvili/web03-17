@@ -560,12 +560,16 @@ button{
     width: 250px;
     height: 197px;
     background-color: #ffffff;
-    margin-left: 20px;
+    margin-left: 95px;
     padding: 20px;
 }
 .circle{
     position: absolute;
-    left: -240px;
+    left: -288px;
+}
+.circle-1{
+    position: absolute;
+    right: -180px;
 }
 
 .wrapper-5 h4{
@@ -594,7 +598,7 @@ button{
     width: 250px;
     height: 197px;
     background-color: #ffffff;
-    margin-left: 20px;
+    margin-left: 95px;
     padding: 20px;
 }
 ,.wrapper-6 h4{
