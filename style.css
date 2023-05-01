@@ -572,10 +572,12 @@ button{
     transition-timing-function: linear;
 }
 .circle:hover{
-    margin-left: 600px;
+    margin-left: 300px;
     background-color: #0865DE;
     font-size: 20px;
     color: red;
+    border-radius: 50%;
+    line-height: 30px;
 
 }
 .circle-1{
@@ -587,10 +589,12 @@ button{
     transition-timing-function: linear;
 }
 .circle-1:hover{
-    margin-right: 400px;
+    margin-right: 300px;
     background-color: #FF7600;
     letter-spacing: 5px;
     color: #0865DE;
+    border-radius: 50%;
+    line-height: 30px;
 }
 .wrapper-5 h4{
     letter-spacing: 1px;
@@ -606,6 +610,7 @@ button{
 .wrapper-5 p{
     width: 257px;
     height: 102px;
+    line-height: 25px;
 }
 .wrapper-6{
     display: inline-block;
@@ -633,5 +638,6 @@ button{
 .wrapper-6 P{
     width: 257px;
     height: 102px;
+    line-height: 25px;
 } 
  
