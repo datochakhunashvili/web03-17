@@ -566,12 +566,32 @@ button{
 .circle{
     position: absolute;
     left: -288px;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-timing-function: linear;
+}
+.circle:hover{
+    margin-left: 600px;
+    background-color: #0865DE;
+    font-size: 20px;
+    color: red;
+
 }
 .circle-1{
     position: absolute;
     right: -180px;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-timing-function: linear;
 }
-
+.circle-1:hover{
+    margin-right: 400px;
+    background-color: #FF7600;
+    letter-spacing: 5px;
+    color: #0865DE;
+}
 .wrapper-5 h4{
     letter-spacing: 1px;
     font-size: 15px;
