@@ -31,14 +31,14 @@ ul{
     border-radius: 50%;
     background-color: black;
     margin:20px;
-   display: inline-block;
-   vertical-align: middle;
-   position: absolute;
-   animation-name: logoanimation;
-   animation-timing-function: linear;
-   animation-duration: 0.7s;
-   animation-delay: 0.3s;
-   animation-iteration-count: 5;
+    display: inline-block;
+    vertical-align: middle;
+    position: absolute;
+    animation-name: logoanimation;
+    animation-timing-function: linear;
+    animation-duration: 1s;
+    animation-delay: 0.3s;
+    animation-iteration-count: 5;
 }
 @keyframes logoanimation{
     from{
@@ -46,7 +46,7 @@ ul{
         margin-left: 5px;
     }
     to{
-        top: 200px;
+        top: 300px;
         margin-left: 50px;
         background-color: #5091e0;
         width: 50px;
@@ -172,6 +172,24 @@ button{
     background-color: #0865DE;
     margin-left: -15px;
     margin-top: -15px;
+    position: absolute;
+    animation-name: box-1animation;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 0.3s;
+    animation-iteration-count: 5;
+}
+@keyframes box-1animation{
+    from{
+        bottom:0px;
+    }
+    to{
+        top: 350px;
+        background-color: #5091e0;
+        width: 50px;
+        height: 50px;
+        border-radius: 0px;
+    }
 }    
 .conceotion{
     width: 183px;
